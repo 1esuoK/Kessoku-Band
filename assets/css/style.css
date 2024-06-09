@@ -176,7 +176,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/ph_bg.jpg') top center / cover no-repeat;
+    background: url('https://images4.alphacoders.com/130/thumb-1920-1300987.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
